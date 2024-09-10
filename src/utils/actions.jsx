@@ -1,0 +1,5 @@
+export const GENERATE = 'GENERATE';
+export const SET_BUTTON_CLICKED = 'SET_BUTTON_CLICKED';
+export const GET_SELECTED_ITEM = 'GET_SELECTED_ITEM';
+export const HANDLE_SUBMIT = 'HANDLE_SUBMIT';
+
